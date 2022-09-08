@@ -13,6 +13,7 @@ body{
     font-family: sans-serif;
     color: #fff;
     font-family: 'Lato', sans-serif;
+    height: 3000px;
 }
 
 .navigation{
@@ -61,15 +62,6 @@ span{
     transition: all 0.3s;
 }
 
-h1{
-    transition: margin 0.5s, transform 0.5s;
-    padding-left: 50px;
-    padding-right: 50px;
-    margin-top: 10vh !important;
-    font-size: 24px;
-    font-weight: 100;
-    text-align: justify;
-}
 
 @keyframes yellowPulse {
     0%{
